@@ -18,7 +18,7 @@ This directory
 
 -   [package project starting point](#package)
 
--   [Usage - example](#示例)
+-   [Usage - example](#example)
 
 -   [The main file-index](#index)
 
